@@ -1,0 +1,12 @@
+<?php
+
+return [
+    'modulos' => [
+        'Inicio',
+    ]
+    
+    ];
+
+
+
+?>
